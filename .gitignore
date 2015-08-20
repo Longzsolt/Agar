@@ -1,0 +1,17 @@
+*.csproj
+App.config
+*.exe
+bin/Debug/Agar.pdb
+*.manifest
+bin/Debug/Emgu.CV.DebuggerVisualizers.VS2013.dll
+*.dll
+bin/Debug/Emgu.CV.Shape.xml
+*.xml
+obj/Debug/Agar.Agar.resources
+*.txt
+obj/Debug/Agar.Properties.Resources.resources
+*.cache
+obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Properties/AssemblyInfo.cs
+*.resx
+Properties/Settings.settings
